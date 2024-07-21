@@ -1,0 +1,11 @@
+<template>
+    <div id="empty-layout" class="flex flex-col min-h-screen">
+      <main class="flex-grow">
+        <router-view />
+      </main>
+    </div>
+  </template>
+  
+  <script setup>
+  </script>
+  

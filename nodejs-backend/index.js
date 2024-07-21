@@ -18,6 +18,8 @@ let graphData = {
       { name: 'B-1', description: 'This is a description of B-1', parent: 'B' },
       { name: 'B-2', description: 'This is a description of B-2', parent: 'B' },
       { name: 'B-3', description: 'This is a description of B-3', parent: 'B' },
+      { name: 'D-1', description: 'This is a description of D-1', parent: 'D' },
+      { name: 'B-2-1', description: 'This is a description of B-2-1', parent: 'B-2' },
     ]
   };
 
