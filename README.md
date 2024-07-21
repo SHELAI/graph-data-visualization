@@ -44,7 +44,7 @@ To setup the project please git clone this repository using HTTPS URL link, and 
 2- Frontend
    open a new terminal and run: 
    * cd vuejs-frontend
-   * npm install --force
+   * npm install
    * npm run dev
 
    then the frontend will run on port 5173 if is not occupied using this link: http://localhost:5173/
